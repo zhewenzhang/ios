@@ -17,7 +17,7 @@
                BlueprintIdentifier = "B84E63271E5DBA4C002AF78B"
                BuildableName = "myfirstApp.app"
                BlueprintName = "myfirstApp"
-               ReferencedContainer = "container:myfirstApp.xcodeproj">
+               ReferencedContainer = "container:&#x5c0f;&#x7070;&#x673a;.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
             BlueprintIdentifier = "B84E63271E5DBA4C002AF78B"
             BuildableName = "myfirstApp.app"
             BlueprintName = "myfirstApp"
-            ReferencedContainer = "container:myfirstApp.xcodeproj">
+            ReferencedContainer = "container:&#x5c0f;&#x7070;&#x673a;.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -58,7 +58,7 @@
             BlueprintIdentifier = "B84E63271E5DBA4C002AF78B"
             BuildableName = "myfirstApp.app"
             BlueprintName = "myfirstApp"
-            ReferencedContainer = "container:myfirstApp.xcodeproj">
+            ReferencedContainer = "container:&#x5c0f;&#x7070;&#x673a;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -77,7 +77,7 @@
             BlueprintIdentifier = "B84E63271E5DBA4C002AF78B"
             BuildableName = "myfirstApp.app"
             BlueprintName = "myfirstApp"
-            ReferencedContainer = "container:myfirstApp.xcodeproj">
+            ReferencedContainer = "container:&#x5c0f;&#x7070;&#x673a;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
